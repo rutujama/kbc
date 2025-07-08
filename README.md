@@ -16,6 +16,7 @@ This project is a Python-based simulation of the famous quiz game show **Kaun Ba
 - ✅ Answer validation
 - 🎮 Interactive CLI-based user experience
 - 🔄 Play again option after game ends
+- It is give rael time feel
 
 ---
 
